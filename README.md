@@ -16,7 +16,8 @@ Follow these steps to set up the project locally on your machine. Make sure you 
 
 Cloning the Repository
 
-git clone https://github.com/Inas-Harram/AI-SaaS_ImgOne cd imgone
+git clone https://github.com/Inas-Harram/AI-SaaS_ImgOne.git 
+cd imgone
 
 Installation Install the project dependencies using npm: npm run dev
 
